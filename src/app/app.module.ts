@@ -4,8 +4,8 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { CounterModule } from './counter/counter.module';
-import { HeroesModule } from './heroes/heroes.module';
 import { DbzModule } from './dbz/dbz.module';
+import { HeroesModule } from './heroes/heroes.module';
 
 @NgModule({
   declarations: [AppComponent],
